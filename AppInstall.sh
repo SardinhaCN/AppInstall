@@ -29,6 +29,7 @@ while true; do
             ;;
         2) 
            sudo apt install yazi -y
+           ;;
         3)
             sudo apt install elinks -y
             elinks
