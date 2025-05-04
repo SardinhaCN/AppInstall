@@ -18,7 +18,7 @@ mostrar_menu() {
 }
 
 # Loop para o menu
-while true; do
+do
     mostrar_menu
     read -p "Escolha uma opção: " opcao
 
